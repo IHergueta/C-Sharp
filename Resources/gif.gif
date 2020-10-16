@@ -1,0 +1,1429 @@
+<!DOCTYPE html><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98"></script><!DOCTYPE html>
+<html>
+
+<!-- 
+| ---                                                       
+| Theme by JAZZatkin
+| ---
+| http://jazzatkin.com
+| @JAZZatkin
+| ---
+-->
+
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-39164785-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-39164785-3');
+</script>
+
+        <title>Amir B Jahanbin</title>
+        <style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}</style><link rel="stylesheet" media="screen" href="https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=46a7a9e1e08f1b33790dea4bb521d1c8"><link rel="shortcut icon" href="https://64.media.tumblr.com/avatar_8d7fa8ccbe6b_128.pnj">
+        <link rel="alternate" type="application/rss+xml" href="https://abjahanbin.tumblr.com/rss">
+        
+        <meta name="description" content="animation and other computer things" />
+        
+        <meta name="viewport" content="width=540">
+        <meta name="color:Background Left" content="#89caf5">
+        <meta name="color:Background Right" content="#87e293">
+        <meta name="color:Link Hover" content="#00c0ff"/>
+        <meta name="if:Infinite Scroll" content="1">
+        <meta name="if:Description In Header" content="1" />
+        <meta name="if:Captions on Homepage" content="0">
+        <meta name="if:Tags on Homepage" content="0">
+        <meta name="if:Social Links In Header" content="1" />
+        <meta name="text:Facebook Link" content="">
+        <meta name="text:Instagram Link" content="">
+        <meta name="text:Twitter Link" content="">
+        <meta name="text:Spotify Link" content="">
+        <meta name="if:Dropdown Menu" content="1" />
+        <meta name="if:Archive Link" content="1" />
+        <meta name="if:Ask Link" content="" />
+        <meta name="text:Custom Link 1 Title" content="" />
+        <meta name="text:Custom Link 1" content="">
+        <meta name="text:Custom Link 2 Title" content="">
+        <meta name="text:Custom Link 2" content="">
+        <meta name="text:Custom Link 3 Title" content="">
+        <meta name="text:Custom Link 3" content="">
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+        <script src="https://static.tumblr.com/iwtk77u/Yhym2yygt/jquery.imagesloaded.min.js"></script>
+        <script src="https://static.tumblr.com/6hsqxdt/QBym35odk/jquery.masonry.js"></script>
+        <script src="https://use.fontawesome.com/4747b39279.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i|Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
+   
+        <style type="text/css">
+            html, body{
+                margin:0;
+                padding:0 0 10px 0;
+                background: -webkit-linear-gradient(left, #9de9f3, #e287dc);
+                background: -o-linear-gradient(right, #9de9f3, #e287dc); 
+                background: -moz-linear-gradient(right, #9de9f3, #e287dc);
+                background: linear-gradient(to right, #9de9f3, #e287dc);
+                }
+            body{
+                -webkit-font-smoothing: antialiased;
+                font-size: 15px;
+                font-family: 'Playfair Display';
+                color: #FFF;
+                }
+                
+            /* Page Borders */
+                
+            #top, #bottom{
+                width: 100%;
+                height: 10px;
+                background-color: #FFF;
+                z-index: 200;
+                position: fixed;
+                display: block;
+                }
+            #top{
+                top: 0;
+                left: 0;
+                }
+            #bottom{
+                bottom: 0;
+                left: 0;
+                }
+            #left, #right{
+                width: 10px;
+                height: 100%;
+                background-color: #FFF;
+                z-index: 200;
+                position: fixed;
+                display: block;
+                }
+            #left{
+                top: 0;
+                left: 0;
+                }
+            #right{
+                top: 0;
+                right: 0;
+                }
+            
+            /* Header */
+            
+            header{
+                width: 80%;
+                margin: 0 auto;
+                overflow: hidden;
+                padding: 130px 0px 60px 0px;
+                text-align: center;
+                }
+            header h1{
+                padding: 0;
+                margin: 0;
+                font-family: 'Roboto';
+                font-size: 35px;
+                line-height: 35px;
+                font-weight: 300;
+                letter-spacing: 1px;
+                margin-bottom: 20px;
+                }
+            header h1 a{
+                color: #FFF;
+                text-decoration: none;
+                }
+            header h2{
+                font-weight: normal;
+                font-style: italic;
+                font-size: 20px;
+                line-height: 20px;
+                padding: 0;
+                margin: 0;
+                margin-bottom: 20px;
+                }
+            ul#socials{
+                width: 250px;
+                height: 20px;
+                margin: 0 auto;
+                text-align: center;
+                padding: 0px;
+                }
+            ul#socials li{
+                display: inline-block; 
+                padding: 0;
+                margin: 0;
+                }
+            ul#socials li a{
+                font-size: 20px;
+                line-height: 20px;
+                padding: 0 5px;
+                margin: 0;
+                color: #FFF
+                }
+            ul#socials li a:hover{
+                color: rgba(255,255,255,0.5);
+                }
+            #menu{
+                position: fixed;
+                top: 20px;
+                left: 30px;
+                z-index: 170;
+                font-size: 30px;
+                display: block;
+                }
+            #menu:hover{
+    	        cursor: pointer;
+                opacity: 0.5;
+                }
+            ul#nav.js{
+    	        display: none;
+    		    }
+            ul#nav{
+                position: fixed;
+                top: 0px;
+                left: 0px;
+                width: 150px;
+                height: 100vh;
+                box-sizing: border-box;
+                padding: 80px 25px 20px 30px;
+                display: block;
+                font-size: 11px;
+                z-index: 150;
+                background-color: rgba(255,255,255,0.3);
+                border-right: 1px solid #FFF;
+                }
+    	    ul#nav li{
+                display: block;
+                text-align: left;
+                margin-bottom: 20px;
+    	        }
+            ul#nav li a{
+                padding: 11px 14px;
+                border: 1px solid #FFF;
+                display: block;
+                overflow: hidden;
+                background-color:rgba(255,255,255,0.2);
+                color: #FFF;
+                text-decoration: none;
+                font-family: 'Roboto';
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.5em;
+                text-align: center;
+                text-transform: uppercase;
+                }
+            ul#nav li a:hover{
+                background-color:#ffb700;
+                }
+            
+            /* Container Structure */
+          
+            .container{
+                margin: 0 auto;
+                padding: 0px;
+                width:1530px;
+                
+                }
+            
+            @media screen and (max-width: 1550px){
+                .container{
+                    width: 1020px;
+                    }
+                }
+            
+            @media screen and (max-width: 1050px){
+                .container, .pagination-inner, .note-container{
+                    width: 510px !important;
+                    }
+                }
+                
+            /* Basics */
+            
+            a{
+                transition: all 0.3s ease-in-out; 
+                color: #000;
+                text-decoration: none;
+                }
+            p{
+                margin: 20px 0 0 0;
+                padding: 0;
+                color: #FFF;
+                }
+            p:first-child{
+                margin: 0;
+                }
+            img{
+                display: block;
+                margin: 0;
+                padding: 0;
+                }
+            ul, ol{
+                padding: 0;
+                margin: 0;
+                }
+            #none{
+                display: none;
+                }
+            blockquote{
+                margin: 20px 20px 0px 20px;
+                }
+            h3{
+                padding: 0;
+                margin: 0;
+                margin-bottom: 20px;
+                font-family: 'Roboto';
+                font-weight: 300;
+                font-size: 30px;
+                line-height: 40px;
+                }
+            h3 a{
+                color: #FFF !important;
+                border-bottom: 1px solid #FFF !important;
+                text-decoration: none;
+                padding: 0;
+                border: 0;
+                }
+                
+            /* Posts */
+                
+            .post{
+                line-height: 1.7em;
+                border: 1px solid #FFF;
+                padding: 20px;
+                box-sizing: border-box;
+                background-color:rgba(255,255,255,0.1);
+                
+                margin: 0px 10px 20px 10px;
+                width: 490px;
+                float: left;
+                position: relative; 
+                
+                
+                }
+            .post a{
+                padding-bottom: 2px;
+                border-bottom: 1px solid #000;
+                }
+            .post a:hover{
+                color:#ffb700;
+                border-bottom: 1px solid #ffb700;
+                }
+            .post img{
+                width: 100%;
+                }
+            .post ul li{
+                margin-left: 30px;
+                }
+            .meta{
+                width: 100%;
+                margin-top: 20px;
+                padding-top: 20px;
+                border-top: 1px solid #FFF;
+                float:left;
+                }
+            .reblogbutton, .likebutton{
+                height: 40px;
+                width: 40px;
+                line-height: 40px;
+                overflow: hidden;
+                float: left;
+                border: 1px solid #FFF;
+                box-sizing: border-box;
+                transition: all 0.3s ease-in-out;  
+                margin-right: 20px;
+                text-align: center;
+                }
+            .reblogbutton a{
+                padding: 0px 11px;
+                border: 0;
+                }
+            .permalink{
+                float: right;
+                font-size: 20px;
+                height: 40px;
+                line-height: 38px;
+                width: 40px;
+                text-align: center;
+                color: #FFF !important;
+                padding: 0px !important;
+                border: 1px solid #FFF !important;
+                box-sizing: border-box;
+                }
+            .permalink:hover, .notecount:hover{
+                color: #FFF;
+                border: 0;
+                background-color: #ffb700;
+                }
+            .notecount{
+                float: right;
+                font-size: 12px;
+                height: 40px;
+                line-height: 40px;
+                padding: 0px 14px !important;
+                text-align: center;
+                border: 1px solid #FFF !important;
+                color: #FFF !important;
+                border: 0;
+                text-decoration: none;
+                font-family: 'Roboto';
+                font-weight: 300;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+                }
+            .reblogbutton:hover, .likebutton:hover{
+                background-color: #ffb700;
+                cursor:pointer;
+                }
+            .credit{
+                width: 100%;
+                overflow: hidden;
+                font-size: 11px;
+                font-family: 'Roboto';
+                color: #FFF;
+                font-weight: 300;
+                box-sizing: border-box;
+                padding: 30px 40px 30px 30px;
+                display: block;
+                text-align: right;
+                letter-spacing: 1px;
+                margin: 0;
+                }
+            .credit a{
+                color: #FFF;
+                text-decoration: none;
+                padding-bottom: 2px;
+                border-bottom: 1px solid #FFF;
+                }
+            .tag-container{
+                text-align: justify;
+                margin-top: 20px;
+                padding-top: 20px;
+                width: 100%;
+                border-top: 1px solid #FFF;
+                }   
+            .caption{
+                text-align: justify;
+                
+                margin-top: 20px;
+                
+                
+                width: 100%;
+                }
+            /* Text Posts */
+
+            .post.text p{
+                text-align: justify;
+                }
+                
+            /* Photo Posts */
+            
+            /* Photoset Posts */
+            
+            ul#photoset{
+                list-style-type: none;
+                padding: 0;
+                margin: 0;
+                }
+            ul#photoset li{
+                padding: 0;
+                margin: 0px 0px 10px 0px;
+                }
+            ul#photoset li:last-child { 
+                margin-bottom: 0px;        
+                }
+                
+            /* Video Posts */
+            
+            .videoWrapper {
+                position: relative;
+                padding-bottom: 56.25%; /* 16:9 */
+                padding-top: 25px;
+                height: 0;
+                }
+            .videoWrapper iframe {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                }
+            
+            /* Audio Posts */
+                
+            /* Quote Posts */
+            
+            .post.quote .quote{
+                width: 100%;
+                overflow: hidden;
+                font-family: 'Playfair Display';
+                font-style: italic;
+                color: #FFF;
+                font-size: 30px;
+                margin-bottom: 20px;
+                float:left;
+                line-height: 40px;
+                }
+            .post.quote .source{
+                width: 100%;
+                overflow: hidden;
+                font-family: 'Roboto';
+                font-weight: 300;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                font-size: 12px;
+                color: #FFF;
+                text-align: right;
+                }
+            
+            /* Link Posts */
+
+            .post.link a.link{
+                display: block;
+                border: 1px solid #FFF;
+                color: #FFF;
+                text-decoration: none;
+                }
+            .post.link a.link:hover{
+                background-color:#ffb700;
+                }
+            .post.link .link-thumb img{
+                width: 100%;
+                height: auto;
+                }
+            .post.link .link-host{
+                margin: 0px 20px;
+                padding: 20px 0px;
+                border-bottom: 1px solid #FFF;
+                font-family: 'Roboto';
+                text-transform: uppercase;
+                font-weight: 300;
+                letter-spacing: 1px;
+                box-sizing: border-box;
+                line-height: 15px;
+                }
+            .post.link .link-title{
+                font-family: 'Roboto';
+                text-transform: uppercase;
+                font-weight: 300;
+                letter-spacing: 1px;
+                font-size: 30px;
+                line-height: 30px;
+                padding: 20px;
+                }
+            
+            /* Chat Posts */
+            
+            .post.chat ul{
+                padding: 0; 
+                margin: 0;
+                }
+            .post.chat ul li{
+                list-style-type: none;
+                padding: 20px 0 0 0;
+                margin: 20px 0 0 0;
+                border-top: 1px solid #FFF;
+                }
+            .post.chat ul li:first-child { 
+                padding: 0;
+                margin: 0;
+                border-top: 0px;      
+                }
+            .post.chat ul li span.label{
+                font-family: 'Roboto';
+                font-weight: 300;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                }
+            
+            /* Answer Posts */
+            
+            .question-container, .answer-container, .replies{
+                width: 100%;
+                overflow: hidden;
+                }
+            .question-container{
+                border-bottom: 1px solid #FFF;
+                margin-bottom: 20px;
+                padding-bottom: 20px;
+                }
+            .question-icon, .answer-icon{
+                width: 60px;
+                float: left;
+                margin-right: 20px;
+                }
+            .question-icon img, .answer-icon img{
+                width: 100%;
+                height: auto;
+                border-radius: 30px;
+                }
+            .post.answer .asker, .post.answer .answerer{
+                font-family: 'Roboto';
+                font-weight: 300;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                margin-bottom: 10px;
+                }
+            .post.answer .asker a, .post.answer .answerer a{
+                color: #FFF !important;
+                border-bottom: 1px solid #FFF !important;
+                text-decoration: none;
+                }
+                
+            /* Pagination */
+            
+            .pagination{
+                width: 100%;
+                background-color:rgba(255,255,255,0.1);
+                overflow: hidden;
+                border-top: 1px solid #FFF;
+                border-bottom: 1px solid #FFF;
+                padding: 30px 0px;
+                
+                }
+            .pagination-inner{
+                width: 1530px;
+                margin: 0 auto;
+                
+                }
+            .pagination-inner a{
+                padding: 10px;
+                width: 80px;
+                font-size: 12px;
+                text-align: center;
+                border: 1px solid #FFF;
+                color: #FFF;
+                text-decoration: none;
+                font-family: 'Roboto';
+                font-weight: 300;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                }
+            .pagination a#next{
+                float: left;
+                }
+            .pagination a#prev{
+                float: right;
+                }
+            .pagination a:hover{
+                background-color: #ffb700;
+               }
+
+            /* Notes */
+
+            #note-page{
+                width: 100%;
+                overflow: hidden;
+                padding: 30px 0px;
+                font-family: 'Roboto';
+                font-weight: 300;
+                letter-spacing: 1px;
+                }
+            .note-container{     
+                width: 860px;
+                margin: 0 auto;  
+                }  
+                ol.notes {
+                    list-style-type: none;
+                    font-weight: 300;
+                }
+                ol.notes li.note {
+                    padding: 5px 0px;
+                    font-size: 12px;
+                }
+                ol.notes li.note a{
+                    color: #FFF;
+                    padding-bottom: 2px;
+                    border-bottom: 1px solid #FFF;
+                    text-decoration: none;
+                }
+                ol.notes li.note a:hover{
+                    color: #ffb700;
+                    border-bottom: 1px solid #ffb700;
+                }
+                ol.notes li.note img.avatar {
+                    display: none;
+                }
+                ol.notes li.note span.action {
+                    font-weight: normal;
+                }
+                ol.notes li.note .answer_content {
+                    font-weight: normal;
+                }
+                ol.notes li.note blockquote a {
+                    text-decoration: none;
+                }
+            
+            .note.more_notes_link_container{
+                    border-top: 1px solid #FFF;
+                    padding-top: 20px !important;
+                    margin-top: 20px;
+                    text-align: left !important;
+                   font-size: 14pt !important;
+                }
+      		.note.more_notes_link_container a, a.more_notes_link, .notes_loading{
+        		text-decoration: none;
+        		padding: 0 !important;
+       			border: 0 !important;
+         		color: #FFF !important;
+                text-transform: uppercase;
+             	font-weight: 300;
+                font-family: 'Roboto';
+             	text-align: left !important;
+               	font-size: 10pt !important;
+                }
+            #infscr-loading{
+                position: fixed;
+                z-index: 198;
+                bottom: 40px;
+                left: 40px;
+                width: 20px;
+                font-size: 20px;
+                margin: 0 auto;
+                color: #FFF !important;
+                box-sizing: border-box;
+                padding: 0px;
+                margin: 0;
+                }
+            #infscr-loading img{
+                width: 0px;
+                height: 0px;
+                float: left;
+                }
+            #infscr-loading p{
+                padding: 0;
+                margin: 0;
+                }
+            
+            
+                   
+            </style> 
+    <link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=abjahanbin%26postID=612227741415325696" /><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=abjahanbin&postID=612227741415325696" /><link rel="alternate" type="application/json+oembed" href="https://www.tumblr.com/oembed/1.0?url=https://abjahanbin.tumblr.com/post/612227741415325696/tp-is-the-only-thing-we-can-trust-now" title="tp is the only thing we can trust now"/><script src="https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd"></script><link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3"><meta name="keywords" content="jahanbin,abj,blender,wfh,pastel" /><!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:title" content="Amir B Jahanbin" /><meta property="og:url" content="https://abjahanbin.tumblr.com/?og=1" /><meta property="og:description" content="animation and other computer things" /><meta property="og:type" content="tumblr-feed:tumblelog" /><meta property="og:image" content="https://64.media.tumblr.com/avatar_8d7fa8ccbe6b_128.pnj" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=abjahanbin" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=abjahanbin" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr" /><meta name="twitter:card" content="summary" /><meta name="twitter:description" content="abjahanbin" /><meta name="twitter:title" content="abjahanbin" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=abjahanbin&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=abjahanbin&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=abjahanbin&amp;referrer=twitter-cards" /><!-- GOOGLE CAROUSEL --><script type="application/ld+json">
+	{"@type":"ItemList","url":"https:\/\/abjahanbin.tumblr.com","itemListElement":[{"@type":"ListItem","position":1,"url":"https:\/\/abjahanbin.tumblr.com\/post\/629335083321589760\/pomobj"},{"@type":"ListItem","position":2,"url":"https:\/\/abjahanbin.tumblr.com\/post\/620734775004708864\/say-it-loud-say-it-proud"},{"@type":"ListItem","position":3,"url":"https:\/\/abjahanbin.tumblr.com\/post\/616744391552417792\/nature-is-goat"},{"@type":"ListItem","position":4,"url":"https:\/\/abjahanbin.tumblr.com\/post\/616112924976627712\/one-of-those-government-approved-walk"},{"@type":"ListItem","position":5,"url":"https:\/\/abjahanbin.tumblr.com\/post\/615293850473431040\/looking-out-out-from-inside-wishing-to-be-high"},{"@type":"ListItem","position":6,"url":"https:\/\/abjahanbin.tumblr.com\/post\/614405176115216384\/what-kind-of-horse-is-this"},{"@type":"ListItem","position":7,"url":"https:\/\/abjahanbin.tumblr.com\/post\/614223667664224256\/remember-hugs"},{"@type":"ListItem","position":8,"url":"https:\/\/abjahanbin.tumblr.com\/post\/613854351505670144\/park-wit-frands"},{"@type":"ListItem","position":9,"url":"https:\/\/abjahanbin.tumblr.com\/post\/612773856339476480\/simulating-the-spread-these-are-highly-scientific"},{"@type":"ListItem","position":10,"url":"https:\/\/abjahanbin.tumblr.com\/post\/612227741415325696\/tp-is-the-only-thing-we-can-trust-now"}],"@context":"http:\/\/schema.org"}</script><link rel="canonical" href="https://abjahanbin.tumblr.com" /></head>
+    <body>
+        <div id="top"></div>
+        <div id="bottom"></div>
+        <div id="right"></div>
+        <div id="left"></div>
+        <header>
+            <h1><a href="https://abjahanbin.tumblr.com/">Amir B Jahanbin</a></h1>
+            
+            
+                <h2>animation and other computer things</h2>
+            
+          
+            
+                <ul id="socials">
+                    
+                    
+                        <li>
+                        <a class="twitter" href="https://twitter.com/abjahanbin" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    					</li>
+                    
+                    
+                        <li>
+                        	<a class="instagram" href="https://instagram.com/abjahanbin/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+    					</li>
+                    
+                    
+                </ul>
+               
+            
+            
+            <nav>
+                <ul id="nav">
+                    
+                    
+                    
+                    
+                    <li class="left"><a href="https://abjahanbin.tumblr.com/about">about</a></li>
+                    
+                    
+                    <li class="left"><a href="https://vimeo.com/jahanbin">vimeo</a></li>
+                    
+                    
+                </ul>    
+            </nav>
+            
+        </header>
+        <div class="container">
+            
+                <div class="post photo">
+                
+                    
+                    
+                    
+                        <a href="https://abjahanbin.tumblr.com/post/629335083321589760/pomobj">
+                            <img src="https://64.media.tumblr.com/1da57157e0a52c10ec2426f5ce186bc7/79c14cd3c0324e6b-50/s540x810/cc8e42a0fff52a91f5dfb52fef89cc9bb43ac67a.gifv" alt="pom.obj" width="100%"/></a>
+                        
+                    
+                    
+                    
+                
+                    
+                    
+                    
+                
+                    
+
+                    
+                    
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                            
+                                <div class="caption">
+                                    <p>pom.obj</p>
+                                </div>
+                            
+                        
+                        
+                         
+                
+                        <div class="meta">
+                            <div class="reblogbutton">
+                                <a href="https://www.tumblr.com/reblog/629335083321589760/TFaCYj8y" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#fff"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a>
+                            </div>
+                            <div class="likebutton">
+                                <div class="like_button" data-post-id="629335083321589760" data-blog-name="abjahanbin" id="like_button_629335083321589760"><iframe id="like_iframe_629335083321589760" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=abjahanbin&amp;post_id=629335083321589760&amp;color=white&amp;rk=TFaCYj8y" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_629335083321589760"></iframe></div>
+                            </div>
+                            
+                                    <a class="notecount" href="https://abjahanbin.tumblr.com/post/629335083321589760/pomobj">13 notes</a>    
+                            
+                                <a  id="none" class="permalink" href="https://abjahanbin.tumblr.com/post/629335083321589760/pomobj">+</a>
+                        </div>
+                    
+                    
+                </div> <!-- End of Post -->
+                
+                
+                
+                  
+                <div class="post text">
+                
+                    
+                        
+                        
+                            <div class="body-text">
+                                <figure class="tmblr-full" data-orig-height="1080" data-orig-width="1080"><img src="https://64.media.tumblr.com/a93f0c6e2e3f316c74aec83fef043fd3/127799089e4c26bd-9f/s500x750/91ba50dc2d39c0ca75edf3581e412490696883cf.gifv" data-orig-height="1080" data-orig-width="1080" width="500" height="500" alt="image" /></figure><p>say it loud ! say it proud ! &#127752;</p>
+                            </div>
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                    
+                    
+                    
+                
+                    
+
+                    
+                    
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                            
+                        
+                        
+                         
+                
+                        <div class="meta">
+                            <div class="reblogbutton">
+                                <a href="https://www.tumblr.com/reblog/620734775004708864/LjaG0AJT" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#fff"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a>
+                            </div>
+                            <div class="likebutton">
+                                <div class="like_button" data-post-id="620734775004708864" data-blog-name="abjahanbin" id="like_button_620734775004708864"><iframe id="like_iframe_620734775004708864" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=abjahanbin&amp;post_id=620734775004708864&amp;color=white&amp;rk=LjaG0AJT" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_620734775004708864"></iframe></div>
+                            </div>
+                            
+                                    <a class="notecount" href="https://abjahanbin.tumblr.com/post/620734775004708864/say-it-loud-say-it-proud">16 notes</a>    
+                            
+                                <a  id="none" class="permalink" href="https://abjahanbin.tumblr.com/post/620734775004708864/say-it-loud-say-it-proud">+</a>
+                        </div>
+                    
+                    
+                </div> <!-- End of Post -->
+                
+                
+                
+                  
+                <div class="post photo">
+                
+                    
+                    
+                    
+                        <a href="https://abjahanbin.tumblr.com/post/616744391552417792/nature-is-goat">
+                            <img src="https://64.media.tumblr.com/3707a57e5f35077a84d50f2c4aebf8a3/7c1a4e1b425233fb-0e/s540x810/80835474287108a1e07cf65fb85dffdfd20328d3.gifv" alt="nature is goat" width="100%"/></a>
+                        
+                    
+                    
+                    
+                
+                    
+                    
+                    
+                
+                    
+
+                    
+                    
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                            
+                                <div class="caption">
+                                    <p>nature is goat</p>
+                                </div>
+                            
+                        
+                        
+                         
+                
+                        <div class="meta">
+                            <div class="reblogbutton">
+                                <a href="https://www.tumblr.com/reblog/616744391552417792/O6Sv4Qyi" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#fff"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a>
+                            </div>
+                            <div class="likebutton">
+                                <div class="like_button" data-post-id="616744391552417792" data-blog-name="abjahanbin" id="like_button_616744391552417792"><iframe id="like_iframe_616744391552417792" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=abjahanbin&amp;post_id=616744391552417792&amp;color=white&amp;rk=O6Sv4Qyi" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_616744391552417792"></iframe></div>
+                            </div>
+                            
+                                    <a class="notecount" href="https://abjahanbin.tumblr.com/post/616744391552417792/nature-is-goat">24 notes</a>    
+                            
+                                <a  id="none" class="permalink" href="https://abjahanbin.tumblr.com/post/616744391552417792/nature-is-goat">+</a>
+                        </div>
+                    
+                    
+                </div> <!-- End of Post -->
+                
+                
+                
+                  
+                <div class="post photo">
+                
+                    
+                    
+                    
+                        <a href="https://abjahanbin.tumblr.com/post/616112924976627712/one-of-those-government-approved-walk">
+                            <img src="https://64.media.tumblr.com/ae66325a3153de60e505d50938e56008/8e5c6172e0601f6d-b2/s540x810/25f2248f1eb504a2b6876907c3bf94a32c72933c.gifv" alt="one of those government approved walk" width="100%"/></a>
+                        
+                    
+                    
+                    
+                
+                    
+                    
+                    
+                
+                    
+
+                    
+                    
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                            
+                                <div class="caption">
+                                    <p>one of those government approved walk</p>
+                                </div>
+                            
+                        
+                        
+                         
+                
+                        <div class="meta">
+                            <div class="reblogbutton">
+                                <a href="https://www.tumblr.com/reblog/616112924976627712/yAX3QWH8" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#fff"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a>
+                            </div>
+                            <div class="likebutton">
+                                <div class="like_button" data-post-id="616112924976627712" data-blog-name="abjahanbin" id="like_button_616112924976627712"><iframe id="like_iframe_616112924976627712" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=abjahanbin&amp;post_id=616112924976627712&amp;color=white&amp;rk=yAX3QWH8" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_616112924976627712"></iframe></div>
+                            </div>
+                            
+                                    <a class="notecount" href="https://abjahanbin.tumblr.com/post/616112924976627712/one-of-those-government-approved-walk">18 notes</a>    
+                            
+                                <a  id="none" class="permalink" href="https://abjahanbin.tumblr.com/post/616112924976627712/one-of-those-government-approved-walk">+</a>
+                        </div>
+                    
+                    
+                </div> <!-- End of Post -->
+                
+                
+                
+                  
+                <div class="post text">
+                
+                    
+                        
+                        
+                            <div class="body-text">
+                                <figure class="tmblr-full" data-orig-height="640" data-orig-width="640" data-npf="{&quot;type&quot;:&quot;video&quot;,&quot;provider&quot;:&quot;tumblr&quot;,&quot;url&quot;:&quot;https://ve.media.tumblr.com/tumblr_q8qewtITvi1u08ent.mp4&quot;,&quot;media&quot;:{&quot;url&quot;:&quot;https://ve.media.tumblr.com/tumblr_q8qewtITvi1u08ent.mp4&quot;,&quot;type&quot;:&quot;video/mp4&quot;,&quot;width&quot;:640,&quot;height&quot;:640},&quot;poster&quot;:[{&quot;url&quot;:&quot;https://66.media.tumblr.com/tumblr_q8qewtITvi1u08ent_frame1.jpg&quot;,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;width&quot;:640,&quot;height&quot;:640}],&quot;filmstrip&quot;:{&quot;url&quot;:&quot;https://66.media.tumblr.com/previews/tumblr_q8qewtITvi1u08ent_filmstrip.jpg&quot;,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;width&quot;:2000,&quot;height&quot;:200}}"><video controls="controls" autoplay="autoplay" muted="muted" poster="https://66.media.tumblr.com/tumblr_q8qewtITvi1u08ent_frame1.jpg"><source src="https://ve.media.tumblr.com/tumblr_q8qewtITvi1u08ent.mp4" type="video/mp4" /></video></figure><p>looking out out from inside , wishing to be high in the sky wit dis guy ~ goin for a balloon ride</p><p>&#9729;&#65039;&#9729;&#65039;&#127880;&#9729;&#65039;&#127774;</p>
+                            </div>
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                    
+                    
+                    
+                
+                    
+
+                    
+                    
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                            
+                        
+                        
+                         
+                
+                        <div class="meta">
+                            <div class="reblogbutton">
+                                <a href="https://www.tumblr.com/reblog/615293850473431040/zXl2NQyG" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#fff"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a>
+                            </div>
+                            <div class="likebutton">
+                                <div class="like_button" data-post-id="615293850473431040" data-blog-name="abjahanbin" id="like_button_615293850473431040"><iframe id="like_iframe_615293850473431040" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=abjahanbin&amp;post_id=615293850473431040&amp;color=white&amp;rk=zXl2NQyG" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_615293850473431040"></iframe></div>
+                            </div>
+                            
+                                    <a class="notecount" href="https://abjahanbin.tumblr.com/post/615293850473431040/looking-out-out-from-inside-wishing-to-be-high">15 notes</a>    
+                            
+                                <a  id="none" class="permalink" href="https://abjahanbin.tumblr.com/post/615293850473431040/looking-out-out-from-inside-wishing-to-be-high">+</a>
+                        </div>
+                    
+                    
+                </div> <!-- End of Post -->
+                
+                
+                
+                  
+                <div class="post photo">
+                
+                    
+                    
+                    
+                        <a href="https://abjahanbin.tumblr.com/post/614405176115216384/what-kind-of-horse-is-this">
+                            <img src="https://64.media.tumblr.com/5b24d3c03c84ec8024a61cca959fdf5d/a962454815cb525d-b5/s540x810/3d92bd753f8023c0ed1cf3fc331bb6242ae2456c.gifv" alt="what kind of horse is this ?" width="100%"/></a>
+                        
+                    
+                    
+                    
+                
+                    
+                    
+                    
+                
+                    
+
+                    
+                    
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                            
+                                <div class="caption">
+                                    <p>what kind of horse is this ?</p>
+                                </div>
+                            
+                        
+                        
+                         
+                
+                        <div class="meta">
+                            <div class="reblogbutton">
+                                <a href="https://www.tumblr.com/reblog/614405176115216384/bCwBKA36" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#fff"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a>
+                            </div>
+                            <div class="likebutton">
+                                <div class="like_button" data-post-id="614405176115216384" data-blog-name="abjahanbin" id="like_button_614405176115216384"><iframe id="like_iframe_614405176115216384" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=abjahanbin&amp;post_id=614405176115216384&amp;color=white&amp;rk=bCwBKA36" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_614405176115216384"></iframe></div>
+                            </div>
+                            
+                                    <a class="notecount" href="https://abjahanbin.tumblr.com/post/614405176115216384/what-kind-of-horse-is-this">51 notes</a>    
+                            
+                                <a  id="none" class="permalink" href="https://abjahanbin.tumblr.com/post/614405176115216384/what-kind-of-horse-is-this">+</a>
+                        </div>
+                    
+                    
+                </div> <!-- End of Post -->
+                
+                
+                
+                  
+                <div class="post photo">
+                
+                    
+                    
+                    
+                        <a href="https://abjahanbin.tumblr.com/post/614223667664224256/remember-hugs">
+                            <img src="https://64.media.tumblr.com/dd21304322e566ec509d3df141764f2d/0d658ba47e421ce8-8a/s540x810/1391ce0ad0f57efaf7eb67ef36e223c1b9a0b1b4.gifv" alt="remember hugs ?" width="100%"/></a>
+                        
+                    
+                    
+                    
+                
+                    
+                    
+                    
+                
+                    
+
+                    
+                    
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                            
+                                <div class="caption">
+                                    <p>remember hugs ?</p>
+                                </div>
+                            
+                        
+                        
+                         
+                
+                        <div class="meta">
+                            <div class="reblogbutton">
+                                <a href="https://www.tumblr.com/reblog/614223667664224256/4e4y0qCu" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#fff"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a>
+                            </div>
+                            <div class="likebutton">
+                                <div class="like_button" data-post-id="614223667664224256" data-blog-name="abjahanbin" id="like_button_614223667664224256"><iframe id="like_iframe_614223667664224256" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=abjahanbin&amp;post_id=614223667664224256&amp;color=white&amp;rk=4e4y0qCu" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_614223667664224256"></iframe></div>
+                            </div>
+                            
+                                    <a class="notecount" href="https://abjahanbin.tumblr.com/post/614223667664224256/remember-hugs">50 notes</a>    
+                            
+                                <a  id="none" class="permalink" href="https://abjahanbin.tumblr.com/post/614223667664224256/remember-hugs">+</a>
+                        </div>
+                    
+                    
+                </div> <!-- End of Post -->
+                
+                
+                
+                  
+                <div class="post photo">
+                
+                    
+                    
+                    
+                        <a href="https://abjahanbin.tumblr.com/post/613854351505670144/park-wit-frands">
+                            <img src="https://64.media.tumblr.com/617e941d97d650677714d9af71cc4667/bf5c0139fcde98b2-6e/s1280x1920/4935db7a3f9a3bfbd42c2b0438dee789010292e9.jpg" alt="park wit frands" width="100%"/></a>
+                        
+                    
+                    
+                    
+                
+                    
+                    
+                    
+                
+                    
+
+                    
+                    
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                            
+                                <div class="caption">
+                                    <p>park wit frands</p>
+                                </div>
+                            
+                        
+                        
+                         
+                
+                        <div class="meta">
+                            <div class="reblogbutton">
+                                <a href="https://www.tumblr.com/reblog/613854351505670144/LisWbZIn" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#fff"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a>
+                            </div>
+                            <div class="likebutton">
+                                <div class="like_button" data-post-id="613854351505670144" data-blog-name="abjahanbin" id="like_button_613854351505670144"><iframe id="like_iframe_613854351505670144" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=abjahanbin&amp;post_id=613854351505670144&amp;color=white&amp;rk=LisWbZIn" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_613854351505670144"></iframe></div>
+                            </div>
+                            
+                                    <a class="notecount" href="https://abjahanbin.tumblr.com/post/613854351505670144/park-wit-frands">62 notes</a>    
+                            
+                                <a  id="none" class="permalink" href="https://abjahanbin.tumblr.com/post/613854351505670144/park-wit-frands">+</a>
+                        </div>
+                    
+                    
+                </div> <!-- End of Post -->
+                
+                
+                
+                  
+                <div class="post photo">
+                
+                    
+                    
+                    
+                        <a href="https://abjahanbin.tumblr.com/post/612773856339476480/simulating-the-spread-these-are-highly-scientific">
+                            <img src="https://64.media.tumblr.com/208cf3af84995a47441adaf05b8c573a/ee4eeae774834e81-a8/s540x810/38bddc079baa283c106bfa10526000a6bb8de81c.gifv" alt="simulating the spread. these are highly scientific findings." width="100%"/></a>
+                        
+                    
+                    
+                    
+                
+                    
+                    
+                    
+                
+                    
+
+                    
+                    
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                            
+                                <div class="caption">
+                                    <p>simulating the spread. these are highly scientific findings.</p>
+                                </div>
+                            
+                        
+                        
+                         
+                
+                        <div class="meta">
+                            <div class="reblogbutton">
+                                <a href="https://www.tumblr.com/reblog/612773856339476480/H41x8ag4" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#fff"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a>
+                            </div>
+                            <div class="likebutton">
+                                <div class="like_button" data-post-id="612773856339476480" data-blog-name="abjahanbin" id="like_button_612773856339476480"><iframe id="like_iframe_612773856339476480" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=abjahanbin&amp;post_id=612773856339476480&amp;color=white&amp;rk=H41x8ag4" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_612773856339476480"></iframe></div>
+                            </div>
+                            
+                                    <a class="notecount" href="https://abjahanbin.tumblr.com/post/612773856339476480/simulating-the-spread-these-are-highly-scientific">6 notes</a>    
+                            
+                                <a  id="none" class="permalink" href="https://abjahanbin.tumblr.com/post/612773856339476480/simulating-the-spread-these-are-highly-scientific">+</a>
+                        </div>
+                    
+                    
+                </div> <!-- End of Post -->
+                
+                
+                
+                  
+                <div class="post text">
+                
+                    
+                        
+                        
+                            <div class="body-text">
+                                <figure class="tmblr-full" data-orig-height="1080" data-orig-width="1080"><img src="https://64.media.tumblr.com/aca66c3b23157d899a76d42c0508794d/3eee7c3eb7cb921c-1d/s500x750/01d6d71cd79fc4b82baac5e4d5bf0bdaac444cfc.jpg" data-orig-height="1080" data-orig-width="1080" width="500" height="500" alt="image" /></figure><p>tp is the only thing we can trust now</p>
+                            </div>
+                        
+                    
+                    
+                    
+                    
+                    
+                
+                    
+                    
+                    
+                
+                    
+
+                    
+                    
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                            
+                        
+                        
+                         
+                
+                        <div class="meta">
+                            <div class="reblogbutton">
+                                <a href="https://www.tumblr.com/reblog/612227741415325696/veatGacd" class="reblog_button"style="display: block;width:16px;height:16px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#fff"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a>
+                            </div>
+                            <div class="likebutton">
+                                <div class="like_button" data-post-id="612227741415325696" data-blog-name="abjahanbin" id="like_button_612227741415325696"><iframe id="like_iframe_612227741415325696" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=abjahanbin&amp;post_id=612227741415325696&amp;color=white&amp;rk=veatGacd" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_612227741415325696"></iframe></div>
+                            </div>
+                            
+                                    <a class="notecount" href="https://abjahanbin.tumblr.com/post/612227741415325696/tp-is-the-only-thing-we-can-trust-now">91 notes</a>    
+                            
+                                <a  id="none" class="permalink" href="https://abjahanbin.tumblr.com/post/612227741415325696/tp-is-the-only-thing-we-can-trust-now">+</a>
+                        </div>
+                    
+                    
+                </div> <!-- End of Post -->
+                
+                
+                
+                  
+                  
+            </div> <!-- End of Container -->
+            
+            
+            <div class="credit">
+                THEME BY <a href="http://no2everything.tumblr.com">JAZZ</a>
+            </div>
+            
+            
+            
+    
+             
+
+            
+                <div class="pagination">
+                    <div class="pagination-inner">
+                     
+                    
+                    
+                    <a href="/page/2" id="next">Next &rarr;</a>
+                    
+                    </div>
+                </div>        
+            
+            
+        
+        <script src="https://static.tumblr.com/6hsqxdt/vmwm2rb4g/infinitescrolling.js"></script>
+        
+
+        
+        <script type="text/javascript">
+        $(function(){
+        var container = $('.container');
+        
+        container.imagesLoaded( function(){
+            container.masonry({
+                itemSelector : '.post',
+            });
+        });
+        
+        container.infinitescroll({
+                itemSelector : ".post",
+                navSelector : ".pagination",
+                nextSelector : ".pagination a#next",
+                loadingImg : 'data:image/gif;base64,R0lGODlhAQABAHAAACH5BAUAAAAALAAAAAABAAEAAAICRAEAOw==',
+                loadingText : "<i class='fa fa-circle-o-notch fa-spin'></i>",
+                donetext     : "<i class='fa fa-check-circle-o' aria-hidden='true'></i>",
+                bufferPx: 1500,
+                },
+              function( newElements ) {
+                var $newElems = $( newElements ).css({ 
+                    opacity: 0,
+                    
+                });
+                $newElems.imagesLoaded(function(){
+                  $newElems.animate({ 
+                    opacity: '1',
+                      
+                  });
+                  container.masonry( 'appended', $newElems, true ); 
+                });
+              }
+            );
+            
+           $tumblelog.imagesLoaded(function () {
+                $tumblelog.masonry({
+                    columnWidth: function (containerWidth) {
+                        return containerWidth / 100;
+                    }
+                });
+            });
+        });
+        </script>
+        
+    
+        <script type="text/javascript">
+        $("#nav").addClass("js").before('<div id="menu">☰</div>');
+        
+        $("#menu").click(function(){
+        	$("#nav").fadeToggle();
+        });
+        
+        </script>
+    
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#" +
+                              "https://abjahanbin.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script type="text/javascript" nonce="g89Eb8moUc3AfCXavhg1C7xmc">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1602227453&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2FiamFoYW5iaW4udHVtYmxyLmNvbS8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii8ifQ==&U=FGELNADGPE&K=f6fa982b308dd8f90dcc1509503e20418ae1a53fd99c81a321bbf4038beb39cb&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1602227453&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2FiamFoYW5iaW4udHVtYmxyLmNvbS8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii8iLCJub3NjcmlwdCI6MX0=&U=FGELNADGPE&K=10c87605a3b68634f0162458e3f33e29bf63aa147d27fbaf5d2ab174b861cad2&R="></noscript><script type="text/javascript" nonce="g89Eb8moUc3AfCXavhg1C7xmc">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1602227453&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9hYmphaGFuYmluLnR1bWJsci5jb20vIiwicmVxdHlwZSI6MCwicm91dGUiOiIvIiwicG9zdHMiOlt7InBvc3RpZCI6IjYyOTMzNTA4MzMyMTU4OTc2MCIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYyMDczNDc3NTAwNDcwODg2NCIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxNjc0NDM5MTU1MjQxNzc5MiIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxNjExMjkyNDk3NjYyNzcxMiIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxNTI5Mzg1MDQ3MzQzMTA0MCIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxNDQwNTE3NjExNTIxNjM4NCIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxNDIyMzY2NzY2NDIyNDI1NiIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxMzg1NDM1MTUwNTY3MDE0NCIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxMjc3Mzg1NjMzOTQ3NjQ4MCIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxMjIyNzc0MTQxNTMyNTY5NiIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfV19&U=KOAIBJMJBI&K=9845ff5ac41d6edb08d2377867e2538da3396abdb7a8f1566b29fa1a715dc11d&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1602227453&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9hYmphaGFuYmluLnR1bWJsci5jb20vIiwicmVxdHlwZSI6MCwicm91dGUiOiIvIiwicG9zdHMiOlt7InBvc3RpZCI6IjYyOTMzNTA4MzMyMTU4OTc2MCIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYyMDczNDc3NTAwNDcwODg2NCIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxNjc0NDM5MTU1MjQxNzc5MiIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxNjExMjkyNDk3NjYyNzcxMiIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxNTI5Mzg1MDQ3MzQzMTA0MCIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxNDQwNTE3NjExNTIxNjM4NCIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxNDIyMzY2NzY2NDIyNDI1NiIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxMzg1NDM1MTUwNTY3MDE0NCIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxMjc3Mzg1NjMzOTQ3NjQ4MCIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjYxMjIyNzc0MTQxNTMyNTY5NiIsImJsb2dpZCI6MjA1MTE1OTQ0LCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=KOAIBJMJBI&K=3e14e3fd9c840a36201762308dc8cf4523e4b0f7c21cd7f2d5a65312cc6613c1&R="></noscript><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;NotificationPoller&quot;:{&quot;messaging_keys&quot;:[],&quot;token&quot;:&quot;c86f8a500596474a7ef5034081f694bd&quot;,&quot;inbox_unread&quot;:0},&quot;DesktopDashboardLogo&quot;:{&quot;animations&quot;:[[&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1.png?_v=161861acded461bb6e995593a3bae835&quot;,&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1@2x.png?_v=496a774637302a598c851381d00009b0&quot;]]},&quot;TumblelogIframe&quot;:{&quot;unified&quot;:true,&quot;variant&quot;:null,&quot;isCompact&quot;:true,&quot;tumblelogBundleSrc&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=de04ebc7a4a63db35081cfb75e016ba6&quot;,&quot;tumblelogName&quot;:&quot;abjahanbin&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;Amir B Jahanbin&quot;,&quot;tumblelogAvatar&quot;:&quot;https:\/\/64.media.tumblr.com\/avatar_8d7fa8ccbe6b_64.pnj&quot;,&quot;tumblelogHost&quot;:&quot;https:\/\/abjahanbin.tumblr.com&quot;,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:true,&quot;themeHeaderImage&quot;:&quot;https:\/\/static.tumblr.com\/f574c5cd6501dc51e7692b5fbc950489\/sndtefv\/tJepmunu9\/tumblr_static_tumblr_static_9r57taabfx8gkkcwoswk080gc_focused_v3.png&quot;,&quot;themeBackgroundColor&quot;:&quot;#83fbe9&quot;,&quot;themeTitleColor&quot;:&quot;#444444&quot;,&quot;themeAccentColor&quot;:&quot;#ffc0cb&quot;,&quot;brag&quot;:true,&quot;adsEnabled&quot;:false,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:false,&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;blog&quot;,&quot;currentPage&quot;:1,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/abjahanbin.tumblr.com\/&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showFanMailButton&quot;:false,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;https:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=3de94a184d600617102ddd5b48fb36e9&quot;,&quot;appInstallUrls&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dtumblr_new_iframe&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=tumblr_new_iframe\u0026mt=8&quot;},&quot;appOpenReferrer&quot;:&quot;tumblr_new_iframe&quot;,&quot;isShowSearch&quot;:true,&quot;supplyLogging&quot;:[],&quot;secondsSinceLastActivity&quot;:-1}},&quot;Flags&quot;:{&quot;features&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwibW9iaWxlX3dlYl9nYXRlIjp0cnVlLCJzYWZlX21vZGUiOnRydWUsInNhZmVfbW9kZV9lbmFibGVkIjp0cnVlLCJrZXljb21tYW5kX2F1dG9fcGFnaW5hdGUiOnRydWUsImxvZ2dlZF9vdXRfc2VhcmNoIjp0cnVlLCJrcmFrZW5fd2ViX2xvZ2dpbmdfbGlicmFyeSI6dHJ1ZSwibGl2ZXBob3Rvc193ZWIiOnRydWUsInVzZXJfdGFnX2ZpbHRlcmluZyI6dHJ1ZSwicHJvamVjdF94X2FwcGVhbCI6dHJ1ZSwicHJvamVjdF94X3dlYl9zZW5zaXRpdmVfY292ZXJzIjp0cnVlLCJzYWZlX21vZGVfb3duX3Bvc3QiOnRydWUsIm1vYmlsZV93ZWJfcGhvdG9zZXRzIjp0cnVlLCJoaWRlX2RlZmF1bHRfaGVhZGVyc19ibG9nX2NhcmRzIjp0cnVlLCJub3RpZmljYXRpb25fcmVwbHlfbGlua190b19ub3RlcyI6dHJ1ZSwidHlwaW5nX2luZGljYXRvcl93cml0ZSI6dHJ1ZSwiZ2Rwcl9ndWNlX2lzX3JlcXVpcmVkIjp0cnVlLCJ0dW1ibHJfdmlkZW9fc3BvbnNvcmVkX2RheSI6dHJ1ZSwiY2FwdGNoYTp1c2VfcmVjYXB0Y2hhMiI6dHJ1ZSwibGl0dGxlX3Npc3RlciI6dHJ1ZSwiZW5hYmxlX2pzX2Vycm9yc19sb2ciOnRydWUsImxvZ19sYWR5Ijp0cnVlLCJyZWRwb3BfcG9zdF9mb3JtX21vYmlsZV9jcmVhdGUiOnRydWUsImdkcHJfcXVhbnRjYXN0X2NtcCI6dHJ1ZSwiZGFybGFfYWRfZmVlZGJhY2siOnRydWUsInN0YXR1c19pbmRpY2F0b3IiOnRydWUsImNvbnZlcnNhdGlvbmFsX25vdGlmaWNhdGlvbnMiOnRydWUsImRpc2FibGVfeWFob29fYl9jb29raWUiOnRydWUsImxpdmVwaG90b3MiOnRydWV9&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1602227453000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;https:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;https:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;}}"></noscript><script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=de04ebc7a4a63db35081cfb75e016ba6"></script></body>
+</html>
